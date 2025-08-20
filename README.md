@@ -29,11 +29,11 @@ A sleek and responsive landing page built using **HTML, CSS, and JavaScript**. T
 
 ---
 
-## 📁 Project Structure  
-VoiceAssistantLandingPage/
-├── index.html # Main structure of the website
-├── style.css # Styling, animations, and layout
-└── script.js # Navbar toggle functionality
+## 📁 Project Structure  <br>
+VoiceAssistantLandingPage/ <br>
+├── index.html # Main structure of the website<br>
+├── style.css # Styling, animations, and layout<br>
+└── script.js # Navbar toggle functionality<br>
 
 
 ---
@@ -59,7 +59,7 @@ VoiceAssistantLandingPage/
 ## 👨‍💻 Author  
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)  
+GitHub: [@shaktisinh0044](https://github.com/Shaktisinh0044)  
 
 ---
 
